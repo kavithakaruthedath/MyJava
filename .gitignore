@@ -1,0 +1,3 @@
+#Ignore below while committing to git repository
+.idea/
+*.iml
